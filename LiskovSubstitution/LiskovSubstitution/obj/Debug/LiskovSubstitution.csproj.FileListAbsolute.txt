@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe.config
+C:\Users\esrag\source\repos\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe
+C:\Users\esrag\source\repos\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.pdb
+C:\Users\esrag\source\repos\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.exe
+C:\Users\esrag\source\repos\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.pdb
